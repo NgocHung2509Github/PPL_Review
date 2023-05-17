@@ -12,6 +12,8 @@ Xem các video này để dễ hiểu hơn:
 ___
 Scope của một biến được xác định bởi vị trí của nó trong source code, thường dựa trên nơi nó được khai báo. Một biến sẽ được refer đến môi trường cấp cao nhất mà nó được khai báo.
 
+Khi tìm dịnh nghĩa cho 1 biến, Static scoping sẽ tìm trong block hiện tại. Nếu không tìm thấy, quá trình tìm kiếm sẽ từ trong ra ngoài, từ local -> non-local -> global
+
 Ví dụ:
 ```
 // A C program to demonstrate static scoping.
@@ -45,6 +47,8 @@ Output: `10`
 ### Dynamic scoping
 ___
 Scope của một biến được xác định bởi chuỗi các lệnh gọi hàm dẫn đến điểm thực thi hiện tại. Một biết sẽ được refer đến môi trường gần nhất mà nó được khai báo.
+
+Khi tìm định nghĩa cho 1 biến, Dynamic scoping sẽ tìm trong block hiện tại. Nếu không tìm thấy, quá trình tìm kiếm sẽ diễn ra đối với môi trường hoặc hàm đã gọi đến môi trường hiện tại.
 
 Ví dụ:
 ```
