@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Name/Scope.md",
+                "file": "7. Type/Floating point.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Name/Scope.md",
+                "file": "7. Type/Floating point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Name/Scope.md",
+                "file": "7. Type/Floating point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Name/Scope.md"
+                "file": "7. Type/Floating point.md"
               }
             }
           }
@@ -149,12 +149,15 @@
   },
   "active": "1ae429fce8b89e28",
   "lastOpenFiles": [
+    "7. Type/Array address.md",
+    "7. Type/Floating point.md",
+    "7. Type/2's complement.md",
+    "6. Name/Scope.md",
     "6. Name/Binding Time.md",
     "6. Name/Object Allocation.md",
     "6. Name/Binding.md",
     "1. Lexical/RegEx.md",
     "1. Lexical/Compilation Phases.md",
-    "6. Name/Scope.md",
     "Untitled.canvas",
     "2023-05-16.md",
     "Untitled 1.canvas",

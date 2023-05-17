@@ -8,6 +8,7 @@ Xem các video này để dễ hiểu hơn:
 - [Neso - #1](https://www.youtube.com/watch?v=L53nqHCSSFY)
 - [Neso - #2](https://www.youtube.com/watch?v=DeGfInd5BPY)
 - [Neso - #3](https://www.youtube.com/watch?v=-7Hz3iriV6w)
+- [Neso - #4](https://www.youtube.com/watch?v=kqWP26CdhB8)
 
 ### Static/Lexical scoping
 ___
