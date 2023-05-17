@@ -3,6 +3,7 @@ ___
 Scope của một sự ràng buộc (binding) là một vùng của chương trình mà trong đó, ràng buộc có hiệu lực
 
 Xem chí tiết tại: [Static and Dynamic scoping](https://www.geeksforgeeks.org/static-and-dynamic-scoping/)
+
 Xem các video này để dễ hiểu hơn:
 - [Neso - #1](https://www.youtube.com/watch?v=L53nqHCSSFY)
 - [Neso - #2](https://www.youtube.com/watch?v=DeGfInd5BPY)
