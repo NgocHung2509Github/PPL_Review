@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Type/Floating point.md",
+                "file": "06. Name/Binding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Type/Floating point.md",
+                "file": "06. Name/Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Type/Floating point.md",
+                "file": "06. Name/Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Type/Floating point.md"
+                "file": "06. Name/Binding.md"
               }
             }
           }
@@ -147,28 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ae429fce8b89e28",
+  "active": "375b1391d871c2ea",
   "lastOpenFiles": [
+    "03. OOP/oop-handout.pdf",
+    "07. Type/Floating point.md",
     "11. Control Abstraction/8_subprograms-handout.pdf",
     "10. Sequence Control/8_sequence-control-handout.pdf",
-    "9. Code Gen/CodeGeneration.pdf",
-    "8. JVM/JVMandJasminNew.pdf",
-    "7. Type/data-types-handout1.pdf",
-    "6. Name/name_important_handout1.pdf",
-    "5. AST (Abstract Syntax Tree)/ast.handout1.pdf",
-    "4. FP/fp-handout.pdf",
-    "3. OOP/oop-handout.pdf",
-    "2. Syntax/parser1_handout1.pdf",
-    "1. Lexical/lexical-analysis-handout.pdf",
-    "7. Type/Array address.md",
-    "7. Type/Floating point.md",
-    "7. Type/2's complement.md",
-    "6. Name/Scope.md",
-    "6. Name/Binding Time.md",
-    "6. Name/Object Allocation.md",
-    "6. Name/Binding.md",
-    "1. Lexical/RegEx.md",
-    "1. Lexical/Compilation Phases.md",
+    "09. Code Gen/CodeGeneration.pdf",
+    "08. JVM/JVMandJasminNew.pdf",
+    "07. Type/data-types-handout1.pdf",
+    "06. Name/name_important_handout1.pdf",
+    "05. AST (Abstract Syntax Tree)/ast.handout1.pdf",
+    "04. FP/fp-handout.pdf",
+    "02. Syntax/parser1_handout1.pdf",
+    "07. Type/Array address.md",
+    "07. Type/2's complement.md",
+    "06. Name/Scope.md",
+    "06. Name/Binding Time.md",
+    "06. Name/Object Allocation.md",
+    "06. Name/Binding.md",
+    "01. Lexical/RegEx.md",
+    "01. Lexical/Compilation Phases.md",
     "Untitled.canvas",
     "2023-05-16.md",
     "Untitled 1.canvas",
