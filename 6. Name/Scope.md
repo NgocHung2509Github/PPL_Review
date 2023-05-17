@@ -6,6 +6,7 @@ Xem chí tiết tại: [Static and Dynamic scoping](https://www.geeksforgeeks.or
 Xem các video này để dễ hiểu hơn:
 - [Neso - #1](https://www.youtube.com/watch?v=L53nqHCSSFY)
 - [Neso - #2](https://www.youtube.com/watch?v=DeGfInd5BPY)
+- [Neso - #3](https://www.youtube.com/watch?v=-7Hz3iriV6w)
 
 ### Static/Lexical scoping
 ___
