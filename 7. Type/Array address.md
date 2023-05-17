@@ -12,13 +12,13 @@ Ví dụ:
 ### Row major
 ___
 1. Tính theo thứ tự từ bên trái sang: $a1 * s2 * s3 + a2 * s3 + a3$ (lấy a nhân cho những s lớn hơn a). Lấy kết quá nhân với size của element, ở đây là integer nên nhân 2.
-	- $(1*5*9+3*9+1)*2=146$
+	- (1\*5\*9 + 3\*9 + 1)\*2 = 146
 2. Cộng với địa chỉ của phần tử đầu tiên (ở đây là 1000):
-	- $1000 + 146 = 1146$
+	- 1000 + 146 = 1146
 
 ### Column major
 ___
 1. Tính ngược lại từ phải sang: $a3*s2*s1+a2*s1+a1$ (lấy a từ lớn đến bé nhân cho những s nhỏ hơn a đó)
-	- $(1*5*3+3*3+1)*2=50$
+	- (1\*5\*3 + 3\*3 + 1)\*2 = 50
 2. Cộng với địa chỉ của phần tử đầu
-	- $1000 + 50 = 1050$
+	- 1000 + 50 = 1050
